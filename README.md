@@ -1,2 +1,11 @@
-# course2026-autopilot-template
-Шаблон учебного сайта проекта 6 — курс GitHub 2026 (JavaRush)
+# Учебный сайт
+
+Сайт на Markdown: страницы — в `pages/`, сборка — `npm run build` (HTML в папке `_site`), проверка страниц — `npm test`.
+
+## Как запустить
+
+```
+npm ci
+npm test
+npm run build
+```
